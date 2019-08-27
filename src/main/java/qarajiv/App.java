@@ -1,4 +1,4 @@
-package qaclickacademy;
+package qarajiv;
 
 /**
  * Hello world!

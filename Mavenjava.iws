@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f4fb96b-0a22-46e2-bdbb-221303c0ad9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/qaclickacademy/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qarajiv/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/qaclickacademy/AppiumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/qarajiv/AppiumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/qaclickacademy/RESTAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/qarajiv/RESTAPITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/qaclickacademy/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/qarajiv/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -334,7 +337,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566938241359" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566940353219" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -458,7 +461,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2943" y="40" width="1202" height="1277" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" id="Project" order="0" visible="true" weight="0.25431034" />
       <window_info id="Structure" order="1" weight="0.25" />

@@ -1,4 +1,4 @@
-package qaclickacademy;
+package qarajiv;
 
 import org.testng.annotations.Test;
 //rahulonlinetutor@gmail.com

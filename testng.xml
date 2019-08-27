@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="qaclickacademy.SeleniumTest"/>
-      <class name="qaclickacademy.RESTAPITest"/>
+      <class name="qarajiv.SeleniumTest"/>
+      <class name="qarajiv.RESTAPITest"/>
   
     </classes>
   </test> <!-- Test -->
