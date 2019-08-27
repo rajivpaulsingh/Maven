@@ -82,6 +82,9 @@
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="11.0" project-jdk-type="JavaSDK" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="Maven: junit:junit:3.8.1">
       <CLASSES>
