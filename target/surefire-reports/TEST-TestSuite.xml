@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="TestSuite" time="0.005" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="TestSuite" time="0.006" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.2+9-LTS"/>
@@ -61,10 +61,10 @@
     <property name="java.vendor.version" value="18.9"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="qaclickacademy.AppiumTest" name="IOSApps" time="0.004"/>
-  <testcase classname="qaclickacademy.AppiumTest" name="NativeAPpAndroid" time="0"/>
-  <testcase classname="qaclickacademy.SeleniumTest" name="BrowserAUtomation" time="0"/>
-  <testcase classname="qaclickacademy.SeleniumTest" name="elementsUi" time="0"/>
-  <testcase classname="qaclickacademy.RESTAPITest" name="deleteTwitter" time="0.001"/>
-  <testcase classname="qaclickacademy.RESTAPITest" name="postJira" time="0"/>
+  <testcase classname="qarajiv.AppiumTest" name="IOSApps" time="0.005"/>
+  <testcase classname="qarajiv.AppiumTest" name="NativeAPpAndroid" time="0"/>
+  <testcase classname="qarajiv.SeleniumTest" name="BrowserAUtomation" time="0"/>
+  <testcase classname="qarajiv.SeleniumTest" name="elementsUi" time="0.001"/>
+  <testcase classname="qarajiv.RESTAPITest" name="deleteTwitter" time="0"/>
+  <testcase classname="qarajiv.RESTAPITest" name="postJira" time="0"/>
 </testsuite>
